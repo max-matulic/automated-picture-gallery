@@ -1,5 +1,5 @@
 # Automated picture gallery
-* As a project assignment I made an automated picture gallery. 
+* As a project assignment I made an automated picture gallery using jQuery. 
 
 ## ⚙️ Features
 * User can use next and previous buttons if you want to change pictures by yourself. 
